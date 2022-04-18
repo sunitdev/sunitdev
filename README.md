@@ -12,7 +12,7 @@
     <br>
     <p>
         <strong>
-            Currently I work as a Full Stack Developer at Amazon.<br /><br />
+            Currently I work as a Full Stack Engineer at Amazon.<br /><br />
             I have <strong>5+ years</strong> of experience working with startups as well as multinational organizations. I have
             been involved in the entire lifecycle of product development. Right from brainstorming the product idea on a
             whiteboard, to developing the product, monitoring and maintenance and measuring the customer
